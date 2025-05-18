@@ -1,1 +1,1 @@
-# EduAiHAckathon
+# EduAIHackathon
